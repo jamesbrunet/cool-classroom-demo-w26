@@ -1,8 +1,13 @@
-# This is our README
+## Developer guide:
 
-by James Brunet
+1) Write Code
+2) Be cool
+
+## Poem
 
 The Zen of Python
+by James Brunet
+
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
