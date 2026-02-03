@@ -4,3 +4,5 @@ by James Brunet
 
 The Zen of Python
 
+We love it!
+
