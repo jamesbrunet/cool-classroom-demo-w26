@@ -1,8 +1,5 @@
-# This is our README
+Developer guide:
 
-by James Brunet
-
-The Zen of Python
-
-We love it!
+1) Write Code
+2) Be cool
 
