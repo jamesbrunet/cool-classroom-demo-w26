@@ -1,3 +1,7 @@
-# This is our README
+# Our Beautiful Poem
 
-by James Brunet
+The Zen of Python
+
+Implicit is better than explicit
+Simple is better than complex
+There is beauty in less code
